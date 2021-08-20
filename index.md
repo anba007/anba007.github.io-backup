@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 全新的主页哦
 
 You can use the [editor on GitHub](https://github.com/anba007/anba007.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
